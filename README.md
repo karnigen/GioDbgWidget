@@ -1,2 +1,2 @@
-# giodgbwidget
+# Gio DgbWidget
 Gio Debug Widget
